@@ -1,3 +1,5 @@
+package com.company;
+
 public class Circle {
     private static final double pi = Math.PI;
 

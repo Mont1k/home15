@@ -1,3 +1,6 @@
+package com.company;
+
+import com.company.Circle;
 
 import java.util.Scanner;
 
@@ -7,5 +10,9 @@ public class Main {
         int num = sc.nextInt();
         Circle.area(num);
         Circle.circumference(num);
+
     }
     }
+
+
+
